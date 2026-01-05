@@ -1,6 +1,28 @@
-node_modules
-dist
+# Node dependencies
+node_modules/
+
+# Build output
+dist/
+server/public/
+
+# Environment files
+.env
+
+# OS / Editor files
 .DS_Store
-server/public
-vite.config.ts.*
+Thumbs.db
+.vscode/
+*.log
+
+# Vite / temporary
+*.local
+*.cache
+*.tmp
+
+# NPM / Yarn / pnpm
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Optional: tarballs
 *.tar.gz
