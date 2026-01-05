@@ -26,3 +26,5 @@ pnpm-lock.yaml
 
 # Optional: tarballs
 *.tar.gz
+
+confg.toml
