@@ -22,4 +22,5 @@ Install dependencies: npm install
 
 Start the app: npm start
 
-Contact: designerclosetromania@gmail.com
+
+Contact: nahh
